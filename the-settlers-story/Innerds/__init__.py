@@ -1,7 +1,7 @@
 """
 Player [WIP][WORKING]
 Inventory [WIP][WORKING]
-Weapon [WIP][]
+Weapon [WIP][WORKING]
 Armor [][]
 Enemy [][]
 Shop [][]

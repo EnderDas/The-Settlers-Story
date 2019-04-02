@@ -8,6 +8,9 @@ TYPES:
     Gun
     CrossBow
     MachineGun
+
+NOTE:
+    After looking at the code to "The-Settler (Two different games)" I've noticed that the weapon/armor class and Mod classes are more modifiable with the stats of the weapon being in a dictionary instead of just being attributes of the class. This isnt necessarly good, mainly being because id have to add more code for unknown types and making it hard for players to make mods as they would have to add new Fight mechanics for the new stats they add...
 """
 
 __slot__ = [
